@@ -1,0 +1,9 @@
+@font-face {  
+    font-family: 'IranSansWeb';  
+    src: url('/public/Fonts/teqh_iransansweb.ttf') format('truetype'); /* مسیر و فرمت فایل فونت */  
+}
+
+@font-face {  
+    font-family: 'ssss';  
+    src: url('/public/Fonts/Vazir.ttf') format('truetype'); /* مسیر و فرمت فایل فونت */  
+}
